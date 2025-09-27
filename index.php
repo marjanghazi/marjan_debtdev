@@ -57,7 +57,7 @@
   <div class="container">
     <h1 class="fw-bold text-4xl">👋 Hi, I’m <span class="text-yellow-300">Marjan</span></h1>
     <p class="lead mt-3">Software Developer | DebtDev | Full-Stack Learner</p>
-    <a href="#projects" class="btn btn-gradient mt-3 px-4 py-2">View My Work</a>
+    <a href="../wordpress/" class="btn btn-gradient mt-3 px-4 py-2">View My Work</a>
   </div>
 </section>
 
