@@ -59,5 +59,5 @@ Planned Upgrades: <br>
 
 ---
 
-<h2 style="color:#2980B9;">📂 Repository Structure</h2>
+
 
