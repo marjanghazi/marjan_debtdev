@@ -778,9 +778,9 @@
       <!-- Project 1 -->
       <div class="col-lg-4 col-md-6">
         <div class="project-card">
-          <div class="project-img">
+          <!-- <div class="project-img">
             <img src="https://via.placeholder.com/400x200" alt="Debt Management Software">
-          </div>
+          </div> -->
           <div class="project-content">
             <h3 class="project-title">Debt Management Software</h3>
             <p class="project-description">A comprehensive software solution for tracking, managing, and simplifying debt management for individuals and businesses.</p>
@@ -805,9 +805,9 @@
       <!-- Project 2 -->
       <div class="col-lg-4 col-md-6">
         <div class="project-card">
-          <div class="project-img">
+          <!-- <div class="project-img">
             <img src="https://via.placeholder.com/400x200" alt="Admin Panel">
-          </div>
+          </div> -->
           <div class="project-content">
             <h3 class="project-title">Admin Panel</h3>
             <p class="project-description">A PHP-based admin panel with CRUD functionality, CSV uploads, job-user assignment, and attendance tracking features.</p>
@@ -831,9 +831,9 @@
       <!-- Project 3 -->
       <div class="col-lg-4 col-md-6">
         <div class="project-card">
-          <div class="project-img">
+          <!-- <div class="project-img">
             <img src="https://via.placeholder.com/400x200" alt="Portfolio Website">
-          </div>
+          </div> -->
           <div class="project-content">
             <h3 class="project-title">Portfolio Website</h3>
             <p class="project-description">A responsive portfolio website showcasing projects, skills, and professional journey with modern design and smooth animations.</p>
