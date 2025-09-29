@@ -682,7 +682,7 @@
     <div class="row align-items-center">
       <div class="col-lg-4 mb-4 mb-lg-0">
         <div class="about-img">
-          <img src="https://via.placeholder.com/400" class="img-fluid" alt="Marjan DebtDev">
+          <img src="./assets/marjan_pic.png" class="img-fluid" alt="Marjan DebtDev">
         </div>
       </div>
       <div class="col-lg-8">
